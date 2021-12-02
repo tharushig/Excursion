@@ -1,7 +1,20 @@
-header {
-    font-family: Verdana;
-    font-weight: Normal;
-    font-size: 50px;
-    /*color: white;*/
+body {
+    background-color: black;
     text-align: center;
+    font-family: Verdana;
+}
+
+header {
+    font-size: 50px;
+    color: white;
+}
+
+.download {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+a:visited {
+    color: aquamarine;
+    background-color: transparent;
 }
